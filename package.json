@@ -1,0 +1,24 @@
+{
+  "name": "teeworlds-server-info",
+  "version": "1.0.0",
+  "description": "Retrieves the complete server info of a teeworlds server, can handle 64 player servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryozuki/teeworlds-server-info.git"
+  },
+  "keywords": [
+    "teeworlds",
+    "server",
+    "info"
+  ],
+  "author": "Ryozuki",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Ryozuki/teeworlds-server-info/issues"
+  },
+  "homepage": "https://github.com/Ryozuki/teeworlds-server-info#readme"
+}
