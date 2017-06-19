@@ -15,10 +15,14 @@
     "server",
     "info"
   ],
-  "author": "Ryozuki",
+  "author": "Ryozuki, original PHP code by Tim Schumacher",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/Ryozuki/teeworlds-server-info/issues"
   },
-  "homepage": "https://github.com/Ryozuki/teeworlds-server-info#readme"
+  "homepage": "https://github.com/Ryozuki/teeworlds-server-info#readme",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "dgram": "^1.0.1"
+  }
 }
